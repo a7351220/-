@@ -1,0 +1,5 @@
+{
+  "name": "FixedWidth Lens",
+  "description": "A smart visualizer for fixed-width data files. Use Gemini AI to infer schemas, adjust fields via drag-and-drop, and visually inspect data alignment.",
+  "requestFramePermissions": []
+}
